@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [ Baber ]
 ![GitHub Stats](https://raw.githubusercontent.com/BaberDevWorks/art-of-node/master/github-stats.svg )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaberDevWorks&layout=compact&theme=gotham)
+![Top Langs](https://raw.githubusercontent.com/BaberDevWorks/art-of-node/master/languagestats.svg )
 
 Welcome to my GitHub! I'm a **Full-Stack Developer** with over **8 years of experience** building **scalable, impactful products** that solve real-world problems.
 
