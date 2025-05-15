@@ -3,6 +3,7 @@
 ![Top Langs](https://raw.githubusercontent.com/BaberDevWorks/art-of-node/master/languagestats.svg )
 
 Welcome to my GitHub! I'm a **Full-Stack Developer** with over **8 years of experience** building **scalable, impactful products** that solve real-world problems.
+![Streak](https://raw.githubusercontent.com/BaberDevWorks/art-of-node/master/streak.jpeg )
 
 ---
 
